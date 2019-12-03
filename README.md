@@ -1,4 +1,4 @@
-# twitter_clone
+# Twitter Clone
 Aplicação implementando um clone do twitter e um framework mvc do zero
 
 Nesta aplicação, baseada no curso Desenvolvimento Web Completo 2019 - 20 cursos + 20 projetos, de Jorge Sant Ana e Jamilton Damasceno, 
